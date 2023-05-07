@@ -27,13 +27,13 @@
 2. [ ] Todo
 ## 관광 지도 <br/> ![Map](https://github.com/hae92/Busan/blob/main/images/%EB%B6%80%EC%82%B0%20%EA%B4%80%EA%B4%91%20%EC%A7%80%EB%8F%84.jfif)
 ## 여행 계획
-- `12/4(일)` ☞ [시간표]()
+- `05/19(금)` ☞ [시간표]()
    - Todo
-- `12/5(월)` ☞ [시간표]()
+- `05/20(토)` ☞ [시간표]()
    - Todo
-- `12/6(화)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1206.md)
+- `05/21(일)` ☞ [시간표]()
    - Todo
-- `12/7(수)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1207.md)
+- `05/22(월)` ☞ [시간표]()
    - Todo
 ## 기록
 - [2023.05.19]()
