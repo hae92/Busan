@@ -25,7 +25,7 @@
 ## 준비물
 1. [ ] 숙소 예약 ( AirBnB )
 2. [ ] Todo
-## 관광 지도 <br/> 
+## 관광 지도 <br/> ![Map](https://github.com/hae92/Busan/blob/main/images/%EB%B6%80%EC%82%B0%20%EA%B4%80%EA%B4%91%20%EC%A7%80%EB%8F%84.jfif)
 ## 여행 계획
 - `12/4(일)` ☞ [시간표]()
    - Todo
